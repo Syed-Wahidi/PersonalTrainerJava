@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author farha
+ * @author Syed Wahidi
  */
 public class PersonalTrainer {
 
